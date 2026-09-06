@@ -5,10 +5,8 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "vs-template-deps"
 description = "Vapoursynth template dependencies"
-version = "1.1.1"
-license = {
-  text = "GPL-3.0"
-}
+version = "1.1.2"
+license = {text = "GPL-3.0"}
 readme = "README.md"
 
 requires-python = ">=3.13"
